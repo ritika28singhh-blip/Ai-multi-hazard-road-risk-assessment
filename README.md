@@ -13,6 +13,11 @@
 </p>
 
 ---
+## 👥 Project Team & Collaboration
+* **Team Name:** Yash Salunkhe
+* **Primary Repository & Original Workspace:** [yashsalunkhe15/Ai-multi-hazard-road-risk-assessment](https://github.com/yashsalunkhe15/Ai-multi-hazard-road-risk-assessment)
+
+---
 
 ## ⚡ Project Overview
 The **AI-Based Multi-Hazard Road Risk Assessment System** is an advanced software prototype engineered for **Connected and Autonomous Vehicles (CAV)**. Built using state-of-the-art computer vision and a mathematical risk-fusion framework, the system processes real-time traffic video feeds to detect roadway obstacles, estimate spatial telemetry, and compute dynamic risk scores to assist vehicular safety logic.
